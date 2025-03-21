@@ -31,3 +31,4 @@ This project is open-source and free to use.
 
 Let me know if you need modifications! 🚀
 email : temitomzi@gmail.com
+email: ahmeedabduljalal@gmail.com
