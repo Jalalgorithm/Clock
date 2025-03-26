@@ -25,7 +25,7 @@ This is a simple clock built using JavaScript that displays the current time and
 - Update the JavaScript logic to add different time formats or animations.  
 
 ## License  
-This project is open-source and free to use.  
+This project is open-source and free to use for all. 
 
 ---
 
